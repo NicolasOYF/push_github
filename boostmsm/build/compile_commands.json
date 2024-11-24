@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/oyf/test/boostmsm/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/boos_msm.dir/main.cpp.o -c /home/oyf/test/boostmsm/main.cpp",
+  "file": "/home/oyf/test/boostmsm/main.cpp",
+  "output": "CMakeFiles/boos_msm.dir/main.cpp.o"
+}
+]

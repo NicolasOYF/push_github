@@ -1,0 +1,3 @@
+/home/oyf/test/boostmsm/build/CMakeFiles/boos_msm.dir
+/home/oyf/test/boostmsm/build/CMakeFiles/edit_cache.dir
+/home/oyf/test/boostmsm/build/CMakeFiles/rebuild_cache.dir
